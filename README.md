@@ -1,4 +1,4 @@
-# GUI-plethora
+# GUI-Plethora
 i want those looks 
 it will be like a store for GUI 
 I see a screen shot of a desktop i want similar looks on my system 
